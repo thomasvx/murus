@@ -4,8 +4,6 @@
   <em>Beheer bureaubladachtergronden.</em>
 </p>
 <br>
-
-<br>
 <p align="center">
   <table>
     <tr>
