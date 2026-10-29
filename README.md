@@ -1,9 +1,10 @@
 <h1 align="center">Murus</h1>
-
 <p align="center">
   <em>Beheer bureaubladachtergronden.</em>
 </p>
-<br>
+
+[Download _Murus_ hier.](https://github.com/thomasvx/murus/releases)
+
 <p align="center">
   <table>
     <tr>
@@ -16,5 +17,3 @@
     </tr>
   </table>
 </p>
-
-[Download hier.](https://github.com/thomasvx/murus/releases)
