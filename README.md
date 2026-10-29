@@ -16,3 +16,5 @@
     </tr>
   </table>
 </p>
+
+[Download hier.](https://github.com/thomasvx/murus/releases)
