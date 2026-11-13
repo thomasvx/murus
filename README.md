@@ -1,52 +1,35 @@
-<h1 align="center">Manicule</h1>
+<h1 align="center">Murus</h1>
 <p align="center">
-  <em>Vervang je muispijl door een hand, teken op het scherm en licht iets uit.</em>
+  <em>Beheer bureaubladachtergronden.</em>
 </p>
 
-[Download _Manicule_ hier.](DOWNLOADLINK)
+[Download _Murus_ hier.](https://github.com/thomasvx/murus/releases)
 
 <p align="center">
   <table>
     <tr>
       <td width="25%">
-        Vervang je muispijl door een hand.
+        Kies bureaubladachtergronden.
       </td>
       <td width="75%">
-        <img src="https://github.com/user-attachments/assets/522994cd-5dd2-450a-9336-2b65402e51fd" width="100%" style="border:8px solid white;"/>      
+        <img src="https://github.com/user-attachments/assets/55d686e0-0cc4-4eeb-b8db-7660621c2b77" width="100%" style="border:8px solid white;"/>
       </td>
     </tr>
     <tr>
       <td width="25%">
-        Teken op het scherm.
+        Maak een diavoorstelling.
       </td>
       <td width="75%">
-        <img src="https://github.com/user-attachments/assets/eb4ee299-c833-4d5e-bc13-e5951453ed35" width="100%" style="border:8px solid white;"/>
+        <img src="https://github.com/user-attachments/assets/bb0acd3e-977b-4a89-b2d5-8eb1fef651bb" width="100%" style="border:8px solid white;"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%">
+        Kies fragmenten uit videobestanden als bureaubladachtergrond.
+      </td>
+      <td width="75%">
+        <img src="https://github.com/user-attachments/assets/a74d1bc4-719f-4caa-ad95-7fad81d9047c" width="100%" style="border:8px solid white;"/>
       </td>
     </tr>
   </table>
 </p>
-
-<br>
-
-## Werking
-
-Dubbelklik op `manicule.exe` om _Manicule_ aan te zetten. Doe dat nog een keer om je gewone muispijl weer terug te krijgen.
-
-**Ctrl + Shift + scrollen** maakt de hand groter of kleiner.
-
-<br>
-
-## Tekenen
-
-| Sneltoets | Functie |
-|---|---|
-| **Ctrl + Shift** ingedrukt houden | Tekenen. Beweeg de muis om een lijn te maken. Laat de toetsen los om te stoppen. |
-| **Ctrl + Shift + Alt** ingedrukt houden | Tekenen met een dikke lijn. |
-
-Tekeningen verdwijnen vanzelf zodra het scherm verandert, bijvoorbeeld wanneer je:
-
-- 'h' typt;
-- scrolt;
-- naar de volgende dia gaat;
-- een venster verplaatst;
-- andere inhoud op het scherm opent.
