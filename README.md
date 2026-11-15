@@ -12,7 +12,7 @@
         Kies bureaubladachtergronden.
       </td>
       <td width="75%">
-        <img src="https://github.com/user-attachments/assets/55d686e0-0cc4-4eeb-b8db-7660621c2b77" width="100%" style="border:8px solid white;"/>
+        <img src="https://github.com/user-attachments/assets/a219c059-f8c7-48bc-a72c-76402fa733e8" width="100%" style="border:8px solid white;"/>
       </td>
     </tr>
     <tr>
