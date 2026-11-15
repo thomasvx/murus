@@ -3,7 +3,7 @@
   <em>Beheer bureaubladachtergronden.</em>
 </p>
 
-[Download _Murus_ hier.](https://github.com/thomasvx/murus/releases)
+[Download _Murus_ hier.](https://github.com/thomasvx/murus/releases/download/v261115b/murus.exe)
 
 <p align="center">
   <table>
