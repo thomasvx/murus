@@ -4,7 +4,7 @@
 </p>
 <br>
 
-[Download _Murus_.](https://github.com/thomasvx/murus/releases/download/v261115b/murus.exe)
+[Download _Murus_.](https://github.com/thomasvx/murus/releases/download/v261116/murus.exe)
 
 <p align="center">
   <table>
